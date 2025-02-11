@@ -10,6 +10,7 @@ exports.getProducts=async(req,res,next)=>{
         success:true,
         products
     })
+    res.send("the data is fetched successfully")
 }
 exports.getSingleProducts=async(req,res,next)=>{
     try{
