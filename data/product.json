@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Wireless Mouse",
+      "price": "25.99",
+      "description": "Ergonomic wireless mouse with adjustable DPI and long battery life.",
+      "ratings": "4.5",
+      "images": [
+        { "image": "https://example.com/images/wireless-mouse.jpg" }
+      ],
+      "category": "Electronics",
+      "seller": "TechStore",
+      "stock": "150",
+      "numOfReviews": "120",
+      "createdAt": "2024-12-24T12:00:00Z"
+    },
+    {
+      "name": "Men's Running Shoes",
+      "price": "49.99",
+      "description": "Comfortable and lightweight running shoes with breathable mesh.",
+      "ratings": "4.7",
+      "images": [
+        { "image": "https://example.com/images/running-shoes.jpg" }
+      ],
+      "category": "Fashion",
+      "seller": "SportyGear",
+      "stock": "80",
+      "numOfReviews": "200",
+      "createdAt": "2024-12-23T10:00:00Z"
+    },
+    {
+      "name": "Smartphone Case",
+      "price": "9.99",
+      "description": "Durable and stylish smartphone case with shock-absorbing material.",
+      "ratings": "4.3",
+      "images": [
+        { "image": "https://example.com/images/smartphone-case.jpg" }
+      ],
+      "category": "Accessories",
+      "seller": "CaseKing",
+      "stock": "300",
+      "numOfReviews": "85",
+      "createdAt": "2024-12-22T14:30:00Z"
+    },
+    {
+      "name": "Electric Kettle",
+      "price": "39.99",
+      "description": "1.7L electric kettle with fast boiling and auto shut-off feature.",
+      "ratings": "4.6",
+      "images": [
+        { "image": "https://example.com/images/electric-kettle.jpg" }
+      ],
+      "category": "Home Appliances",
+      "seller": "KitchenEssentials",
+      "stock": "120",
+      "numOfReviews": "150",
+      "createdAt": "2024-12-20T16:45:00Z"
+    },
+    {
+      "name": "Gaming Keyboard",
+      "price": "59.99",
+      "description": "Mechanical gaming keyboard with RGB lighting and customizable keys.",
+      "ratings": "4.8",
+      "images": [
+        { "image": "https://example.com/images/gaming-keyboard.jpg" }
+      ],
+      "category": "Electronics",
+      "seller": "GamerHub",
+      "stock": "60",
+      "numOfReviews": "90",
+      "createdAt": "2024-12-19T18:15:00Z"
+    }
+  ]
+  
